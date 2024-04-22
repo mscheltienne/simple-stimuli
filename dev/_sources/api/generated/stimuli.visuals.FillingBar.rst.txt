@@ -1,0 +1,11 @@
+﻿stimuli.visuals.FillingBar
+==========================
+
+.. currentmodule:: stimuli.visuals
+
+.. autoclass:: FillingBar
+   :members:
+   :inherited-members:
+
+.. minigallery:: stimuli.visuals.FillingBar
+    :add-heading:

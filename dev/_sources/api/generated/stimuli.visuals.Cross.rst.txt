@@ -1,0 +1,11 @@
+﻿stimuli.visuals.Cross
+=====================
+
+.. currentmodule:: stimuli.visuals
+
+.. autoclass:: Cross
+   :members:
+   :inherited-members:
+
+.. minigallery:: stimuli.visuals.Cross
+    :add-heading:

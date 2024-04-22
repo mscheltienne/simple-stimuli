@@ -1,0 +1,11 @@
+﻿stimuli.visuals.Text
+====================
+
+.. currentmodule:: stimuli.visuals
+
+.. autoclass:: Text
+   :members:
+   :inherited-members:
+
+.. minigallery:: stimuli.visuals.Text
+    :add-heading:

@@ -1,0 +1,11 @@
+﻿stimuli.visuals.MovingBar
+=========================
+
+.. currentmodule:: stimuli.visuals
+
+.. autoclass:: MovingBar
+   :members:
+   :inherited-members:
+
+.. minigallery:: stimuli.visuals.MovingBar
+    :add-heading:

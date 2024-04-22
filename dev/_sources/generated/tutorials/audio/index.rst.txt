@@ -1,0 +1,77 @@
+
+
+.. _sphx_glr_generated_tutorials_audio:
+
+Auditory stimuli
+----------------
+
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="simple-stimuli provides a common API across audio stimuli. The audio stimuli can be either gene...">
+
+.. only:: html
+
+  .. image:: /generated/tutorials/audio/images/thumb/sphx_glr_10_base_sounds_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_generated_tutorials_audio_10_base_sounds.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Base sounds</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="A noise signal is produced by a stochastic process. The color of noise, also called the noise s...">
+
+.. only:: html
+
+  .. image:: /generated/tutorials/audio/images/thumb/sphx_glr_20_colored_noise_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_generated_tutorials_audio_20_colored_noise.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Colored noise</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="In signal processing and statistics, a window function (also known as an apodization function o...">
+
+.. only:: html
+
+  .. image:: /generated/tutorials/audio/images/thumb/sphx_glr_30_apply_a_window_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_generated_tutorials_audio_30_apply_a_window.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Apply a window</div>
+    </div>
+
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /generated/tutorials/audio/10_base_sounds
+   /generated/tutorials/audio/20_colored_noise
+   /generated/tutorials/audio/30_apply_a_window
+
